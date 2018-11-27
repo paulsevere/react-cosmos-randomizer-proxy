@@ -1,0 +1,14 @@
+{
+  "name": "react-cosmos-randomizer-proxy",
+  "version": "0.0.1",
+  "description": "A proxy to inject a randomly selected redux state from a collection of states",
+  "repository": "https://github.com/paulsevere/react-cosmos-randomizer-proxy.git",
+  "license": "MIT",
+  "main": "index.js",
+  "dependencies": {
+    "@babel/runtime-corejs2": "^7.1.5",
+    "lodash.omit": "^4.5.0",
+    "react-cosmos-shared": "^4.7.0-17",
+    "redux": "^4.0.1"
+  }
+}
